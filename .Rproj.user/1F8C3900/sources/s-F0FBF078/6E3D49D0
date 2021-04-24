@@ -1,0 +1,24 @@
+{
+    "id": "6E3D49D0",
+    "path": "~/tidytuesday/2021-03-16_steam/2021_03_16_steam.Rmd",
+    "project_path": "2021-03-16_steam/2021_03_16_steam.Rmd",
+    "type": "r_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1619242800342.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "cursorPosition": "15,14",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1619243603,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1619243603152,
+    "read_only": false,
+    "read_only_alternatives": []
+}
