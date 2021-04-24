@@ -38,4 +38,4 @@ games %>%
   theme(legend.position="bottom") 
 ```
 
-![](2021_03_16_steam_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-1-1.png)<!-- -->

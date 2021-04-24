@@ -1,9 +1,9 @@
 {
     "id": "6E3D49D0",
-    "path": "~/tidytuesday/2021-03-16_steam/2021_03_16_steam.Rmd",
-    "project_path": "2021-03-16_steam/2021_03_16_steam.Rmd",
+    "path": "~/tidytuesday/2021-03-16_steam/README.Rmd",
+    "project_path": "2021-03-16_steam/README.Rmd",
     "type": "r_markdown",
-    "hash": "0",
+    "hash": "1873647340",
     "contents": "",
     "dirty": false,
     "created": 1619242800342.0,
@@ -14,11 +14,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1619243603,
+    "lastKnownWriteTime": 1619243798,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1619243603152,
+    "last_content_update": 1619243798633,
     "read_only": false,
     "read_only_alternatives": []
 }
